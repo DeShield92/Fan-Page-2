@@ -1,0 +1,17 @@
+h1 {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+h2 {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+p {
+    font-family: "IBM Plex Serif", serif;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+}
